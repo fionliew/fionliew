@@ -149,11 +149,11 @@ View Repository
 📊 GitHub Statistics
 
 <div align="center">
-<a href="https://github.com/[YOUR_GITHUB_USERNAME]">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<a href="https://github.com/[fionliew]">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=[fionliew]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </a>
-<a href="https://github.com/[YOUR_GITHUB_USERNAME]">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<a href="https://github.com/[fionliew]">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[fionliew]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </a>
 <img src="https://streak-stats.demolab.com?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
