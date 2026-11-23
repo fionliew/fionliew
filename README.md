@@ -25,7 +25,7 @@ Aspiring Cybersecurity Professional | Computer Science Student
 
 👩‍💻 About Me
 
-Hello! I’m [YOUR NAME], a Computer Science undergraduate at Universiti Teknologi Malaysia (UTM), pursuing a Bachelor’s Degree in Computer Science (Network and Computer Security).
+Hello! I’m [Fion], a Computer Science undergraduate at Universiti Teknologi Malaysia (UTM), pursuing a Bachelor’s Degree in Computer Science (Network and Computer Security).
 
 I’m passionate about understanding how technology works, how systems communicate, and how digital environments can be protected against security threats.
 
@@ -181,10 +181,10 @@ I’m open to connecting with fellow developers, cybersecurity enthusiasts, stud
 <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:[YOUR_EMAIL]">
+<a href="mailto:[viwynnfionliew@gmail.com]">
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/[YOUR_GITHUB_USERNAME]">
+<a href="https://github.com/[fionliew]">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
@@ -198,7 +198,7 @@ I’m open to connecting with fellow developers, cybersecurity enthusiasts, stud
 “The best way to predict the future is to build it.”
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=[fionliew]&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
 Thanks for visiting my profile! Have a great day. 💙
 
