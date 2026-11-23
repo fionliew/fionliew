@@ -2,6 +2,9 @@
 Name : Fion liew vi wynn
 current studies : Bachelor degree of computer science (Network security )
 skill : C++, Vscode , digital logic
+career goals : cybersecurity 
+
+
 
 
 <!--
