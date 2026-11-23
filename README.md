@@ -1,4 +1,8 @@
 ## Hi there 👋
+Name : Fion liew vi wynn
+current studies : Bachelor degree of computer science (Network security )
+skill : C++, Vscode , digital logic
+
 
 <!--
 **fionliew/fionliew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
